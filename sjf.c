@@ -8,8 +8,8 @@
    This program illustrates the Shortest Job First (SJF) CPU Scheduling Algorithm.
 */
 
-// gcc assignment4.c -o assignment4.out
-//./assignment4.out
+// gcc sjf.c -o sjf.out
+//./sjf.out
 
 struct Process
 {
